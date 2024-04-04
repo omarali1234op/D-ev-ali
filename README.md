@@ -3,22 +3,20 @@
 
 2- apt upgrade
 
-3-  apt install php 
+3- apt install git 
 
-5- apt install git 
+4- git clone https://github.com/omarali1234op/D-ev-ali.git
 
-6- git clone https://github.com/omarali1234op/D-ev-ali.git
+5- ls 
 
-7- ls 
+6- cd D-ev-ali
 
-8- cd D-ev-ali
+7-ls 
 
-9-ls 
+8- chmod +x *
 
-10- chmod +x *
+9- ls 
 
-11- ls 
-
-12- bash D-ev-ali.sh
+10- bash D-ev-ali.sh
 
 بعد ما يخلص التحميل تضهرلك الاداة اضغط y بعدها اكتب اسمك واخرج من البرنامج ورجع وراح يتغير شكل تيرمكس
